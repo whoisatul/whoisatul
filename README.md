@@ -1,5 +1,5 @@
 <h1 align='center'>i'm Hrikshesh🎧</h1>
-<div align='center' ><img src='https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif' width='500'/></div>
+<div align='center' ><img src='https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif' width='450'/></div>
 <h3 align='center'>I don’t just integrate LLMs — I orchestrate intelligent agents.</h4>
 <h3 align='center'>Next.JS dev • AI/ML Engineer • LLM & Generative AI Systems Architect</h4>
 </br>
